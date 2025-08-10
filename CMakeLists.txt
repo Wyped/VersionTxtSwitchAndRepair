@@ -18,8 +18,8 @@ target_compile_options(${PROJECT_NAME} PRIVATE -Wno-int-conversion -trigraphs)
 create_pbp_file(
     TARGET ${PROJECT_NAME}
     ICON_PATH NULL
-    BACKGROUND_PATH NULL
-    PREVIEW_PATH NULL
+    ICON_PATH "${CMAKE_CURRENT_SOURCE_DIR}/eboot/ICON0.png"
+    BACKGROUND_PATH "${CMAKE_CURRENT_SOURCE_DIR}/eboot/PIC1.png"
     TITLE "Version.txt Switch and Repair"
     VERSION 01.00
 )
