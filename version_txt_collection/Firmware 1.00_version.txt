@@ -1,0 +1,4 @@
+release:1.00:
+build:106,1:root@psp-vsh
+system:16214,0x00100000:
+vsh:2004_1104_s16214_p3883_v8335:

@@ -1,0 +1,5 @@
+release:2.01:
+build:822,0,3,1,0:root@psp-vsh
+system:26084@release_200,0x02000010:
+vsh:p4793@release_201,v18444@release_201,20050928:
+target:1:WorldWide

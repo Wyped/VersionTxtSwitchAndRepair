@@ -1,0 +1,4 @@
+release:1.52:
+build:555,0,3,1,0:root@psp-vsh
+system:23740@release_152,0x01050200:
+vsh:p4421@release_152,v13394@release_152,20050525:

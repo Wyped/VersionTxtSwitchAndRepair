@@ -1,0 +1,5 @@
+release:3.30:
+build:1834,0,3,1,0:builder@vsh-build5
+system:38497@release_330,0x03030010:
+vsh:p5532@release_330,v30286@release_330,20070327:
+target:1:WorldWide

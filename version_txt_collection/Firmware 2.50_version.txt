@@ -1,0 +1,5 @@
+release:2.50:
+build:863,0,3,1,0:root@vsh-build
+system:28611@release_250,0x02050010:
+vsh:p4810@release_250,v19039@release_250,20051011:
+target:1:WorldWide

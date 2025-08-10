@@ -1,0 +1,5 @@
+release:2.82:
+build:1490,0,3,1,0:builder@vsh-build2
+system:36351@release_282,0x02080210:
+vsh:p5354@release_282,v25802@release_282,20061004:
+target:1:WorldWide

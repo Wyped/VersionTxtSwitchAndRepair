@@ -1,0 +1,5 @@
+release:2.60:
+build:962,0,3,1,0:root@vsh-build
+system:29904@release_260,0x02060010:
+vsh:p5029@release_260,v20391@release_260,20051125:
+target::WorldWide
