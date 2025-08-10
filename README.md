@@ -24,7 +24,7 @@ It can be used  to fix the infamous 9.90 version error when trying to update old
 ## Usage
 
 1. **Installation:**  
-   Copy the `VersionTxtSwitchRepair` to your PSP's `/PSP/GAME/` folder.
+   Copy the `VersionTxtSwitchAndRepair` folder to your PSP's `/PSP/GAME/` folder.
 
 2. **Launch:**  
    Launch from the XMB.
