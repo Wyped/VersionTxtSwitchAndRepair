@@ -3,10 +3,10 @@
 **Version.txt Switch & Repair** is a PSP homebrew that allows you to easily view, switch, backup, restore, and repair the `version.txt` file on your console. This tool will let you overwrite the version.txt file in flash0 with any released firmware version.txt. 
 It can be used  to fix the infamous 9.90 version error when trying to update old 5.50 custom firmware.
 
-![Screenshot 1](screenshots/pic_0000.bmp)
-![Screenshot 2](screenshots/pic_0001.bmp)
-![Screenshot 3](screenshots/pic_0002.bmp)
-![Screenshot 4](screenshots/pic_0003.bmp)
+![Screenshot 1](screenshots/pic_0000.png)
+![Screenshot 2](screenshots/pic_0001.png)
+![Screenshot 3](screenshots/pic_0002.png)
+![Screenshot 4](screenshots/pic_0003.png)
 
 ## Features
 
